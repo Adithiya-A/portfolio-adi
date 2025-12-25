@@ -2,7 +2,7 @@ import { ArrowRight, Github } from "lucide-react"
 
 const projects = [
     {
-        id: 2,
+        id: 1,
         title: "Project One",
         description: "This is the first project.",
         image: "/projectImgs/Screenshot (1).png",
@@ -19,6 +19,14 @@ const projects = [
     },
     {
         id: 3,
+        title: "Project One",
+        description: "This is the first project.",
+        image: "/projectImgs/Screenshot (1).png",
+        tags: ["React", "CSS"],
+        githubUrl: "#"
+    },
+    {
+        id: 4,
         title: "Project One",
         description: "This is the first project.",
         image: "/projectImgs/Screenshot (1).png",
