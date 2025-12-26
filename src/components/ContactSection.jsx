@@ -33,7 +33,7 @@ export const ContactSection = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-medium">Email</h4>
-                                    <a href="mailto:" className="text-muted-foreground hover:text-primary transition-colors">sample@gmail.com</a>
+                                    <a href="mailto:a.adithiya1508@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">a.adithiya1508@gmail.com</a>
                                 </div>
                             </div>
 
@@ -43,7 +43,7 @@ export const ContactSection = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-medium">Phone</h4>
-                                    <a href="tel:" className="text-muted-foreground hover:text-primary transition-colors">sample@gmail.com</a>
+                                    <a href="tel:9360712851" className="text-muted-foreground hover:text-primary transition-colors">9360712851</a>
                                 </div>
                             </div>
 
@@ -70,7 +70,9 @@ export const ContactSection = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-medium">LinkedIn</h4>
-                                    <a href="mailto:" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">sample@gmail.com</a>
+                                    <a href="https://www.linkedin.com/in/adithiya-a-0304a3290/" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">
+                                        Adithiya (Ask Adi) A
+                                    </a>
                                 </div>
                             </div>
 
@@ -80,7 +82,9 @@ export const ContactSection = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-medium">GitHub</h4>
-                                    <a href="mailto:" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">sample@gmail.com</a>
+                                    <a href="https://github.com/Adithiya-A" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">
+                                        Ask Adi
+                                    </a>
                                 </div>
                             </div>
 
@@ -90,7 +94,9 @@ export const ContactSection = () => {
                                 </div>
                                 <div>
                                     <h4 className="font-medium">Instagram</h4>
-                                    <a href="mailto:" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">sample@gmail.com</a>
+                                    <a href="https://www.instagram.com/ask_adi01?igsh=aTF5dGZha2I3MnZ4" target="_blank" className="text-muted-foreground hover:text-primary transition-colors">
+                                        ask_adi01
+                                    </a>
                                 </div>
                             </div>
 

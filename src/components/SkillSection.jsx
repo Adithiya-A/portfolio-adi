@@ -1,30 +1,27 @@
 
 
 const skills = [
-        { name: "JavaScript", image: "/SkillImgs/html.png" },
-        { name: "React", image: "/SkillImgs/html.png" },
-        { name: "Node.js", image: "/SkillImgs/html.png" },
-        { name: "CSS", image: "/SkillImgs/html.png" },
-        { name: "Python", image: "/SkillImgs/html.png" },
-        { name: "MongoDB", image: "/SkillImgs/html.png" }
+        { name: "HTML", image: "/SkillImgs/html.png" },
+        { name: "CSS", image: "/SkillImgs/css.png" },
+        { name: "Tailwind CSS", image: "/SkillImgs/tailwind_css.png" },
+        { name: "JavaScript", image: "/SkillImgs/java_script.png" },
+        { name: "React JS", image: "/SkillImgs/react_js.png" },
+        { name: "Node JS", image: "/SkillImgs/node_js.png" },
+        { name: "MongoDB", image: "/SkillImgs/mongo_db.png" },
+        { name: "Docker", image: "/SkillImgs/docker.png" },
+        { name: "Linux", image: "/SkillImgs/linux.png" },
+        { name: "N8N", image: "/SkillImgs/n8n.png" },
+        { name: "Premiere Pro", image: "/SkillImgs/premiere_pro.png" },
+        { name: "Photo Shop", image: "/SkillImgs/photo_shop.png" }
     ]
 
 const experiences = [
     {
         year: "2024",
-        title: "Frontend Developer",
-        description: "Worked on building responsive web applications using React and Tailwind CSS."
+        title: "Video Editor",
+        description: "Intern at RFI, Edited high-quality short-form contents for social media platforms."
     },
-    {
-        year: "2024",
-        title: "Frontend Developer",
-        description: "Worked on building responsive web applications using React and Tailwind CSS."
-    },
-    {
-        year: "2024",
-        title: "Frontend Developer",
-        description: "Worked on building responsive web applications using React and Tailwind CSS."
-    }
+    
 ]
 
 export const SkillSection = () => {

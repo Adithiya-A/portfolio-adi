@@ -9,8 +9,10 @@ export const HeroSection = () => {
                         <span className="opacity-0 animate-fade-in">Hi! I'm</span>
                         <span className="text-primary opacity-0 animate-fade-in-delay-1"> A. Adithiya</span>
                     </h1>
-                    <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-2">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste, quam molestiae! Doloremque voluptatem temporibus consectetur quis inventore sed a, ullam, reiciendis quasi ratione beatae iure. Quo magni ab, porro et at facere.
+                    <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-2 mb-10">
+                        Welcome to my portfolio! 
+                        Here, you’ll discover my skills, professional experience, and projects I’ve proudly built. 
+                        I’m passionate about creating impactful web solutions, feel free to reach out, connect with me on social media, and let’s build something amazing together.
                     </p>
 
                     <div className="opacity-0 animate-fade-in-delay-3">
